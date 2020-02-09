@@ -1,2 +1,3 @@
 # hello-world
-just a new app
+i am  a 新手
+
